@@ -1,5 +1,5 @@
 ---
-title: Hextra 主题
+title: Tify 文档
 layout: hextra-home
 ---
 
