@@ -198,3 +198,7 @@ params:
       # inputPosition: top
       # lang: en
       # theme: noborder_dark
+
+caches:
+  images:
+    dir: :cacheDir/images
